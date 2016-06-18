@@ -5,3 +5,5 @@ includes
 how to use needsIndefiniteExecution for URLSession to complete loadin and using live view
 PlaygroundPage.current.needsIndefiniteExecution = true
 PlaygroundPage.current.liveView = myTableView
+
+<img src="https://raw.githubusercontent.com/tsunglintsai/LiveStoryboard/master/screenshot.png"/>
